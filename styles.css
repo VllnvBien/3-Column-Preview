@@ -94,11 +94,6 @@ img {
     color: var(--bg-headings-btn);
 }
 
-.attribution {
-    position: absolute;
-    bottom: 10px;
-}
-
 @media (min-width: 1100px) {
     p {
         margin-bottom: 60%;
@@ -125,4 +120,9 @@ img {
     .btn {
         margin-top: 77px;
     }
+    
+    .attribution {
+    position: absolute;
+    bottom: 10px;
+}
 }
